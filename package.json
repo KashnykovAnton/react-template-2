@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-01-components",
+  "name": "react-template-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KashnykovAnton.github.io/goit-react-hw-01-components",
+  "homepage": "https://KashnykovAnton.github.io/react-template-2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
